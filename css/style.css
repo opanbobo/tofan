@@ -407,7 +407,8 @@ h6 { font-size: 16px; }
 
 .tokyo_tm_all_wrap .rightpart{
 	width: 100%;
-	min-height: 100vh;
+	min-height: 100%;
+	overflow: hidden;
 	float: left;
 	position: relative;
 	background-color: #f8f8f8;
